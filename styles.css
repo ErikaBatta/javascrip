@@ -1,0 +1,12 @@
+body{ 
+    padding: 0px;
+    margin: 20px;
+}
+#miCaja{
+    padding: 30px;
+    margin: 0px;
+}
+
+#form{
+    position: fixed;
+}
