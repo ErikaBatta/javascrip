@@ -1,0 +1,27 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(190, 236, 236);
+}
+
+.contenedor{
+    background-color: rgb(231, 159, 228);
+    width: 35%;
+    margin-left: 35%;
+    margin-right: 35px;
+    justify-content: center;
+    margin-top: 20%;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.resultados{
+    background-color: rgb(233, 68, 211);
+    width: 35%;
+    margin-left: 35%;
+    margin-right: 35px;
+    justify-content: center;
+    margin-top: 1%;
+    padding-left: 25px;
+    text-align: center;
+}
